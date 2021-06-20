@@ -5,6 +5,8 @@
 play.opencomputers.ml
 ## 服务器的版本是？
 1.12.2
+## 服务器的类型是？
+生存+创造，可以用`/server survival`切换到生存服务器，也可以用`/server creative`切换到创造服务器
 ## 服务器有哪些mod？
 有这些：
 ```
