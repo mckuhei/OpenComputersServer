@@ -1,6 +1,6 @@
 欢迎！mod下载地址<a href="https://www.opencomputers.ml:1337/mods.zip">在这</a>
 
-<!--![服务器状态](http://127.0.0.1:8080/opt/ping?addr=play.opencomputers.ml&port=25565)-->
+![服务器状态](https://www.opencomputers.ml:1337/api/ping?addr=play.opencomputers.ml)
 
 # Q&A
 ## 服务器的IP是？
