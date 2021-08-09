@@ -1,4 +1,4 @@
-欢迎！mod下载地址<a href="https://www.opencomputers.ml:1337/mods.zip">在这</a>
+欢迎！mod下载地址<a href="https://www.opencomputers.ml:7331/mods.zip">在这</a>
 
 ![服务器状态](https://www.opencomputers.ml:7331/api/ping?addr=play.opencomputers.ml)
 
